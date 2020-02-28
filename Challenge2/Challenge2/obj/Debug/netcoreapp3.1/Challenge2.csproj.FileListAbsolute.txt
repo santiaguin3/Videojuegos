@@ -1,0 +1,11 @@
+C:\Users\Santiago.DESKTOP-JO9HEBI\source\repos\Challenge2\Challenge2\bin\Debug\netcoreapp3.1\Challenge2.exe
+C:\Users\Santiago.DESKTOP-JO9HEBI\source\repos\Challenge2\Challenge2\bin\Debug\netcoreapp3.1\Challenge2.deps.json
+C:\Users\Santiago.DESKTOP-JO9HEBI\source\repos\Challenge2\Challenge2\bin\Debug\netcoreapp3.1\Challenge2.runtimeconfig.json
+C:\Users\Santiago.DESKTOP-JO9HEBI\source\repos\Challenge2\Challenge2\bin\Debug\netcoreapp3.1\Challenge2.runtimeconfig.dev.json
+C:\Users\Santiago.DESKTOP-JO9HEBI\source\repos\Challenge2\Challenge2\bin\Debug\netcoreapp3.1\Challenge2.dll
+C:\Users\Santiago.DESKTOP-JO9HEBI\source\repos\Challenge2\Challenge2\bin\Debug\netcoreapp3.1\Challenge2.pdb
+C:\Users\Santiago.DESKTOP-JO9HEBI\source\repos\Challenge2\Challenge2\obj\Debug\netcoreapp3.1\Challenge2.csprojAssemblyReference.cache
+C:\Users\Santiago.DESKTOP-JO9HEBI\source\repos\Challenge2\Challenge2\obj\Debug\netcoreapp3.1\Challenge2.AssemblyInfoInputs.cache
+C:\Users\Santiago.DESKTOP-JO9HEBI\source\repos\Challenge2\Challenge2\obj\Debug\netcoreapp3.1\Challenge2.AssemblyInfo.cs
+C:\Users\Santiago.DESKTOP-JO9HEBI\source\repos\Challenge2\Challenge2\obj\Debug\netcoreapp3.1\Challenge2.dll
+C:\Users\Santiago.DESKTOP-JO9HEBI\source\repos\Challenge2\Challenge2\obj\Debug\netcoreapp3.1\Challenge2.pdb
